@@ -1,11 +1,5 @@
 👋 Hi, I’m @sapilson
 
-👀 I’m interested in leveraging data analysis and cloud computing to drive process optimization and innovation in the IT industry. With a background in chemical engineering, quality control, and project management, I'm transitioning my career to explore the exciting world of data-driven solutions.
-
-🌱 I’m currently learning and upskilling in various IT domains, with a focus on data analysis using Python, SQL, and data visualization tools. I'm also actively pursuing certifications in Google Data and AWS Cloud to deepen my expertise in cloud computing and data management.
-
-💞️ I’m looking to collaborate on projects related to data analysis, cloud infrastructure, and IT project management. I'm eager to work with like-minded professionals to solve real-world challenges and contribute to innovative solutions.
-
 📫 How to reach me:
 - LinkedIn: (www.linkedin.com/in/adaldino-sapi)
 - GitHub: (https://github.com/sapilson/)
